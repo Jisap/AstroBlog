@@ -11,5 +11,5 @@ export default defineConfig({
   image: {
     service: squooshImageService(),
   },
-  site: 'https://example.com'
+  site: 'https://jisap-blog.netlify.app'
 });
